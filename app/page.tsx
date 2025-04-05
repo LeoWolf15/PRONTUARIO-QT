@@ -100,4 +100,6 @@ export default function Home() {
       </footer>
     </div>
   );
-}
+}git add .
+git commit -m "Corrigindo estrutura inicial para deploy"
+git push
